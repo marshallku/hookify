@@ -8,6 +8,7 @@ use utils::log::trace_layer_on_request;
 
 mod env;
 mod routes;
+mod schemas;
 mod utils;
 
 #[tokio::main]
