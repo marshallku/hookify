@@ -11,6 +11,7 @@
         "codepoints",
         "dotenv",
         "hookform",
+        "Hookify",
         "iname",
         "instanceof",
         "KHTML",
@@ -43,5 +44,10 @@
         "WEBP",
         "xlink"
     ],
-    "ignorePaths": ["Cargo.lock", "Cargo.toml", "target", "config/nginx.conf"]
+    "ignorePaths": [
+        "Cargo.lock",
+        "Cargo.toml",
+        "target",
+        "config/nginx.conf"
+    ]
 }
